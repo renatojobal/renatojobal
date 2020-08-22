@@ -1,7 +1,6 @@
 Hey, Renato here!
 
 - 🔭 I’m currently working on an android app for [Camello enterprise](https://camello.com.ec/) 
-It is almost finished!
 
 - 🌱 I’m currently learning some react :3
 - 👯 I’m looking to collaborate on open source projects
