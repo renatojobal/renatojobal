@@ -1,3 +1,5 @@
+![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
+
 ### Hey, Renato here! 👋
 
 ## Passionate mobile developer
@@ -120,12 +122,14 @@
   </a>
 </p>
 
-
+![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
 ### Stats:
 ![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatojobal&show_icons=true&locale=en) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=renatojobal&show_icons=true&locale=en&layout=compact)
 
+![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=renatojobal&)
 
+![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
 
 ### Connect with me:
 
