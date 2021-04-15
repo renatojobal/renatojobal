@@ -129,5 +129,5 @@
 
 ### Connect with me:
 
-Email: renatojobal@gmail.com
-Or send by a message using: ![renatojobal.com/contact](https://www.renatojobal.com/contact.html)
+- Email: renatojobal@gmail.com
+- Or send by a message using: ![renatojobal.com/contact](https://www.renatojobal.com/contact.html)
