@@ -7,13 +7,6 @@
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: When I started my first job as developer. I didn't know nothing. Now is the same jaja ... but I learnt how to learn more quickly.
 
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/renatojobal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="renatojobal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/renatojobal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renatojobal" height="30" width="40" /></a>
-<a href="https://instagram.com/renatojobal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="renatojobal" height="30" width="40" /></a>
-<a href="https://www.renatojobal.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.renatojobal.com" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools:
 <p align="left">
@@ -129,9 +122,12 @@
 
 
 ### Stats:
-![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatojobal&show_icons=true&locale=en)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=renatojobal&show_icons=true&locale=en&layout=compact)
+![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatojobal&show_icons=true&locale=en) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=renatojobal&show_icons=true&locale=en&layout=compact)
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=renatojobal&)
 
+
+### Connect with me:
+
+Email: renatojobal@gmail.com
+Or send by a message using: ![renatojobal.com/contact](https://www.renatojobal.com/contact.html)
