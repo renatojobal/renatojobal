@@ -1,4 +1,5 @@
-![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
+
 
 ### Hey, Renato here! 👋
 
@@ -9,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: When I started my first job as developer. I didn't know nothing. Now is the same jaja ... but I learnt how to learn more quickly.
 
-
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 ### Languages and Tools:
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank">
@@ -122,16 +123,18 @@
   </a>
 </p>
 
-![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 ### Stats:
 ![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatojobal&show_icons=true&locale=en) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=renatojobal&show_icons=true&locale=en&layout=compact)
 
-![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=renatojobal&)
 
-![Rectangle 1](https://user-images.githubusercontent.com/35740463/114885152-02c0a180-9dcc-11eb-9766-26609f29b2a0.jpg)
+
 
 ### Connect with me:
 
 - Email: renatojobal@gmail.com
 - Or send by a message using: ![renatojobal.com/contact](https://www.renatojobal.com/contact.html)
+
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
