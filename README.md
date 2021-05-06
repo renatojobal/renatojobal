@@ -1,11 +1,11 @@
-![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
+t8![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 
 
 ### Hey, Renato here! 👋
 
 ## Passionate mobile developer
 
-- 🔭 I’m currently working on an open source project [Pettnaut](https://github.com/pettnaut) 
+- 🔭 I’m currently working on an open source project: [Pettnaut](https://github.com/pettnaut) 
 - 🌱 Look at my projects at: https://www.renatojobal.com/projects.html :3
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: When I started my first job as developer. I didn't know nothing. Now is the same jaja ... but I learnt how to learn more quickly.
