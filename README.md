@@ -135,6 +135,6 @@ t8![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-360
 ### Connect with me:
 
 - Email: renatojobal@gmail.com
-- Or send by a message using: https://www.renatojobal.com/contact.html
+- Or send a message using: https://www.renatojobal.com/contact.html
 
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
