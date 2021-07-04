@@ -1,13 +1,16 @@
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
+
+
 ### Hey, Renato here! 👋
 
 ## Passionate mobile developer
 
-- 🔭 I’m currently working on an open source project [Pettnaut](https://github.com/pettnaut) 
+- 🔭 I’m currently working on an open source project: [Pettnaut](https://github.com/pettnaut) 
 - 🌱 Look at my projects at: https://www.renatojobal.com/projects.html :3
 - 👯 I’m looking to collaborate to projects that have a positive impact on the world 
 - ⚡ Fun fact: When I started my first job as developer. I didn't know nothing. Now is the same jaja ... but I learnt how to learn more quickly.
 
-
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 ### Languages and Tools:
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank">
@@ -120,14 +123,17 @@
   </a>
 </p>
 
-
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 ### Stats:
 ![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatojobal&show_icons=true&locale=en) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=renatojobal&show_icons=true&locale=en&layout=compact)
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=renatojobal&)
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
+
 
 
 ### Connect with me:
 
 - Email: renatojobal@gmail.com
-- Or send by a message using: ![renatojobal.com/contact](https://www.renatojobal.com/contact.html)
+- Or send a message using: https://www.renatojobal.com/contact.html
+
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
