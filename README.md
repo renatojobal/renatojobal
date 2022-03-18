@@ -126,7 +126,7 @@
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 ### Stats:
 ![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatojobal&show_icons=true&locale=en) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=renatojobal&show_icons=true&locale=en)
+
 
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 
