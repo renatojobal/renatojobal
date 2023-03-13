@@ -128,9 +128,20 @@
 ![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatojobal&show_icons=true&locale=en) 
 
 
-![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg" align="center" />
+</p>
+	
+	
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatojobal&theme=monokai" align="center" />
+</p>
+	
 
-
+<p align="center">
+  <img alt="renatojo activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=renatojobal&theme=github-compact" align="center"/>
+</p>
+	
 
 ### Connect with me:
 
