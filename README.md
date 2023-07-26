@@ -5,7 +5,7 @@
 
 ## Passionate mobile developer
 
-- 🔭 I’m currently working at [Lazarillo](https://lazarillo.app) 
+- 🔭 I’m currently working at [Thoughtworks](https://www.thoughtworks.com) 
 - 🌱 Look at my projects at: https://www.renatojobal.com/projects.html :3
 - 👯 I’m looking for collaborate to projects that have a positive impact on the world 
 - ⚡ Fun fact: When I started my first job as developer. I didn't know anothing. Now is the same xD ... but I learnt how to learn more quickly.
