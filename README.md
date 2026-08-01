@@ -6,7 +6,7 @@
 ## Passionate mobile developer
 
 - 🔭 I’m currently working on my personal projects!
-- 🌱 Look at my projects at: https://www.renatojobal.com/projects.html :3
+- 🌱 Look at my projects at: [renatojobal.com/projects](https://www.renatojobal.com/projects/) :3
 - 👯 I’m looking for collaborate to projects that have a positive impact on the world 
 - ⚡ Fun fact: When I started my first job as developer. I didn't know anothing. Now is the same xD ... but I learnt how to learn more quickly.
 
